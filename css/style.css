@@ -1,0 +1,13 @@
+.container{
+    background-color: wheat;
+    font-family: 'Slabo 27px', serif;
+    
+}
+.fondo img{
+    display: block;
+    margin: auto;
+}
+#boton{
+    display: block;
+    margin: auto;
+}
